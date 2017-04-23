@@ -1,0 +1,22 @@
+[I 00:56:39.005 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[W 00:56:39.136 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 00:56:39.158 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 00:56:39.158 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 00:56:39.160 NotebookApp] [nb_conda] enabled
+[I 00:56:39.180 NotebookApp] [nb_anacondacloud] enabled
+[I 00:56:39.181 NotebookApp] Serving notebooks from local directory: /home/venkat/DataAnalytics/fisheries
+[I 00:56:39.181 NotebookApp] 0 active kernels 
+[I 00:56:39.181 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 00:56:39.181 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 00:56:56.021 NotebookApp] Creating new notebook in 
+[I 00:56:57.751 NotebookApp] Kernel started: 44602faa-81f0-44af-a12d-b298e416b453
+[I 00:58:57.665 NotebookApp] Saving file at /fisheries.ipynb
+[I 01:00:57.774 NotebookApp] Saving file at /fisheries.ipynb
+[I 01:01:00.917 NotebookApp] Saving file at /fisheries.ipynb
+[I 01:04:19.018 NotebookApp] Saving file at /fisheries.ipynb
+[I 01:06:57.798 NotebookApp] Saving file at /fisheries.ipynb
+[I 02:02:26.594 NotebookApp] Saving file at /fisheries.ipynb
+[I 20:53:54.479 NotebookApp] 302 GET / (192.168.1.148) 0.24ms
+[I 20:57:06.753 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 20:58:09.761 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 20:58:27.769 NotebookApp] KernelRestarter: restarting kernel (1/5)
