@@ -1,0 +1,18 @@
+{
+    "VGG16": {
+        "RandomForestClassifier": {
+            "clfs": [
+                "VGG16_RandomForestClassifier_precision.pkl",
+                "VGG16_RandomForestClassifier_recall.pkl"
+            ]
+        }
+    },
+    "ResNet50": {
+        "RandomForestClassifier": {
+            "clfs": [
+                "ResNet50_RandomForestClassifier_precision.pkl",
+                "ResNet50_RandomForestClassifier_recall.pkl"
+            ]
+        }
+    }
+}

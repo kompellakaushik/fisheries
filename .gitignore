@@ -29,7 +29,7 @@ MeanRemovedData_cropped.npz
 MeanRemovedData_cropped.npz
 TrainImageMean_cropped.npz
 InceptionV3_RandomForestClassifier_recall.pkl
-
+*.npz
 
 *.jpg
 *.jpeg

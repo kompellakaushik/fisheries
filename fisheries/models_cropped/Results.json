@@ -1,0 +1,42 @@
+{
+    "VGG16": {
+        "LinearSVC": {
+            "clfs": [
+                "VGG16_LinearSVC_precision.pkl",
+                "VGG16_LinearSVC_recall.pkl"
+            ]
+        },
+        "SVC": {
+            "clfs": [
+                "VGG16_SVC_precision.pkl",
+                "VGG16_SVC_recall.pkl"
+            ]
+        },
+        "RandomForestClassifier": {
+            "clfs": [
+                "VGG16_RandomForestClassifier_precision.pkl",
+                "VGG16_RandomForestClassifier_recall.pkl"
+            ]
+        }
+    },
+    "ResNet50": {
+        "LinearSVC": {
+            "clfs": [
+                "ResNet50_LinearSVC_precision.pkl",
+                "ResNet50_LinearSVC_recall.pkl"
+            ]
+        },
+        "SVC": {
+            "clfs": [
+                "ResNet50_SVC_precision.pkl",
+                "ResNet50_SVC_recall.pkl"
+            ]
+        },
+        "RandomForestClassifier": {
+            "clfs": [
+                "ResNet50_RandomForestClassifier_precision.pkl",
+                "ResNet50_RandomForestClassifier_recall.pkl"
+            ]
+        }
+    }
+}
